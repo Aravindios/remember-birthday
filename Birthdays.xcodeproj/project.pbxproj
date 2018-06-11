@@ -335,7 +335,7 @@
 				DEVELOPMENT_TEAM = A79T4B24DZ;
 				INFOPLIST_FILE = Birthdays/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.Birthdays;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cogz.Birthdays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
@@ -350,7 +350,7 @@
 				DEVELOPMENT_TEAM = A79T4B24DZ;
 				INFOPLIST_FILE = Birthdays/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.Birthdays;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cogz.Birthdays;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
